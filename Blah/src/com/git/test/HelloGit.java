@@ -29,6 +29,7 @@ public class HelloGit extends HttpServlet {
 		// TODO Auto-generated method stub
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 		response.getWriter().println("BLAH5");
+		response.getWriter().println("BLAH67");
 
 	}
 
